@@ -1,0 +1,25 @@
+Initialize engine version: 5.5.4p4 (e92bef0ab5a4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6810)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   24.20.13019.1008
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Indie.Game\DungeonRun_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Indie.Game\DungeonRun_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Indie.Game\DungeonRun_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Indie.Game\DungeonRun_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Indie.Game\DungeonRun_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Indie.Game\DungeonRun_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Indie.Game\DungeonRun_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Indie.Game\DungeonRun_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Indie.Game\DungeonRun_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Indie.Game\DungeonRun_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.110 seconds
+Platform assembly: D:\Indie.Game\DungeonRun_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Indie.Game\DungeonRun_Data\Managed\System.dll (this message is harmless)
+desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
